@@ -1,7 +1,7 @@
 name: Progress Not Perfection
 favicon: null
-layout_spectrum: 0.8897173125296831
-typography_spectrum: 0.8352759971749038
+layout_spectrum: 0.25601
+typography_spectrum: 0.74648
 title: Progress Not Perfection
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3d3a34'
     - '#a85419'
   brandStrength: 0.25
-  lightness: 0.6848869358655065
-  saturation: 0.7481349280569702
+  lightness: 0.5625
+  saturation: 0.8125
   rhythmicContrast: 0.6456207800656557
 purpose: []
