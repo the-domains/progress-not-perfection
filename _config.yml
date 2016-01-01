@@ -1,0 +1,28 @@
+name: Progress Not Perfection
+favicon: null
+layout_spectrum: 0.8897173125296831
+typography_spectrum: 0.8352759971749038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06576524605043232
+  lightness: 0.6848869358655065
+  saturation: 0.7481349280569702
+  rhythmicContrast: 0.6456207800656557
+purpose: []
